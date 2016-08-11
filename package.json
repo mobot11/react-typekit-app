@@ -1,0 +1,11 @@
+{
+  "name": "typescript-react",
+  "version": "0.1.0",
+  "description": "typescript react app",
+  "main": "./dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Moberg",
+  "license": "MIT"
+}
