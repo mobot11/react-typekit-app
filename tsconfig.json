@@ -10,6 +10,7 @@
     "files": [
         "./typings/index.d.ts",
         "./src/components/Hello.tsx",
+        "./src/components/Jobs.tsx",
         "./src/index.tsx"
     ]
 }
